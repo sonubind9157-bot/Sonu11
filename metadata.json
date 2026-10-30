@@ -1,0 +1,6 @@
+{
+  "name": "Khel11 Fantasy",
+  "description": "Premier fantasy sports app featuring live cricket leagues, real-time match contests, interactive team builder with pitch view, secure payment gateway with instant deposits and withdrawals, and APK download hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
